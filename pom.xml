@@ -283,7 +283,7 @@
 		<commons.lang.version>3.12.0</commons.lang.version>
 		<commons.io.version>2.11.0</commons.io.version>
 		<mockito.version>5.0.0</mockito.version>
-		<tinylog.version>2.6.0</tinylog.version>
+		<tinylog.version>2.6.1</tinylog.version>
 		<hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
 		<sejda.version>5.0.0.M6</sejda.version>
 		<sejda.commons.version>2.0.0</sejda.commons.version>
